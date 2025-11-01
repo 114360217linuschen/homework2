@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\Q4-16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D6D4-4E0D-400C-ACA9-C8C05BB4FB1B}|Q4-16\\Q4-16.vcxproj|C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\source\\triangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D6D4-4E0D-400C-ACA9-C8C05BB4FB1B}|Q4-16\\Q4-16.vcxproj|C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\include\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333D6D4-4E0D-400C-ACA9-C8C05BB4FB1B}|Q4-16\\Q4-16.vcxproj|C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "triangle.h",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\include\\triangle.h",
+              "RelativeDocumentMoniker": "..\\include\\triangle.h",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\include\\triangle.h",
+              "RelativeToolTip": "..\\include\\triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-01T13:31:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "triangle.c",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\source\\triangle.c",
+              "RelativeDocumentMoniker": "..\\source\\triangle.c",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\source\\triangle.c",
+              "RelativeToolTip": "..\\source\\triangle.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-01T13:30:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\source\\Main.c",
+              "RelativeDocumentMoniker": "..\\source\\Main.c",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework2\\Q4-16\\source\\Main.c",
+              "RelativeToolTip": "..\\source\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-01T13:29:50.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

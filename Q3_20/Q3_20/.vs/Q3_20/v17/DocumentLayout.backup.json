@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\Q3_20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAE948-5082-49F9-8CC2-895266A805F3}|Q3_20\\Q3_20.vcxproj|C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\include\\salary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAE948-5082-49F9-8CC2-895266A805F3}|Q3_20\\Q3_20.vcxproj|C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\source\\salary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAE948-5082-49F9-8CC2-895266A805F3}|Q3_20\\Q3_20.vcxproj|C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "salary.c",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\source\\salary.c",
+              "RelativeDocumentMoniker": "..\\source\\salary.c",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\source\\salary.c*",
+              "RelativeToolTip": "..\\source\\salary.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-01T13:11:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\source\\Main.c",
+              "RelativeDocumentMoniker": "..\\source\\Main.c",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\source\\Main.c*",
+              "RelativeToolTip": "..\\source\\Main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-01T13:11:22.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "salary.h",
+              "DocumentMoniker": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\include\\salary.h",
+              "RelativeDocumentMoniker": "..\\include\\salary.h",
+              "ToolTip": "C:\\Users\\jacky\\Desktop\\homework2\\Q3_20\\include\\salary.h*",
+              "RelativeToolTip": "..\\include\\salary.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-01T13:10:33.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
